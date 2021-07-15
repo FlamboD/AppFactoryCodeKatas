@@ -1,8 +1,6 @@
 # Conway's Game of Life _in Python3_
 _A parody by Skye_
 
-[![Build Status](https://travis-ci.com/FlamboD/AppFactoryCodeKatas.svg?branch=main)](https://travis-ci.com/FlamboD/AppFactoryCodeKatas)
-
 <a id="tableOfContents"></a>
 ## Table of contents
 - [Table of contents](#tableOfContents)
