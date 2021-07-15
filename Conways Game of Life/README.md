@@ -33,7 +33,7 @@ _That's it! This project only uses modules that are built into Python3 so there 
 
 <a id="usage"></a>
 ## Usage
-To use this program you will need an input file. This file contains **0**s  and **1**s indicating inactive and active cells respectively. This will be the starting configuration for Conway's Game of Life. _Sample input files can be found in the [patterns](patterns) directory_
+To use this program you will need an input file. This file contains **0**s  and **1**s indicating inactive and active cells respectively. This will be the starting configuration for Conway's Game of Life. _Sample input files can be found in the [patterns](patterns) directory._
 
 Open your console application in the same directory as the `main.py` file.
 
