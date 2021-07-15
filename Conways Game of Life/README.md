@@ -1,10 +1,11 @@
-# Conway's Game of Life
+# Conway's Game of Life _in Python3_
 _A parody by Skye_
 
 <a id="tableOfContents"></a>
 ## Table of contents
 - [Table of contents](#tableOfContents)
 - [Description](#description)
+- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
@@ -35,19 +36,20 @@ _That's it! This project only uses modules that are built into Python3 so there 
 ## Usage
 To use this program you will need an input file. This file contains **0**s  and **1**s indicating inactive and active cells respectively. This will be the starting configuration for Conway's Game of Life. _Sample input files can be found in the [patterns](patterns) directory._
 
-Open your console application in the same directory as the `main.py` file.
+1) Open your console application in the same directory as the `main.py` file.
 
-To start the game, run the command `python main.py --input "[path to input file]"`. _The path can be a local or full path._
-![Run command](https://image.prntscr.com/image/UBudA_16Rjq0sYjuur8DKQ.png)
+2) To start the game, run the command `python main.py --input "[path to input file]"`. _The path can be a local or full path._
 
-There are other parameters you can play around with.
+![Run command](https://imgur.com/z9DR4JU.gif)
+
+3) _[OPTIONAL]_ There are other parameters you can play around with.
 To view them, run the command `python main.py --help`.
 
 ![Help command](https://image.prntscr.com/image/zb7XkIX7RruIxIxQxv458w.png)
 
-To end the program, press `Ctrl+c` or close the console window.
+4) To end the program, press `Ctrl+c` or close the console window.
 
 <a id="license"></a>
-# License
+## License
 [MIT License](LICENSE.md)
 
