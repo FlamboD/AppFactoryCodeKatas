@@ -1,16 +1,15 @@
 # Conway's Game of Life _in Python3_
 _A parody by Skye_
 
-<a id="tableOfContents"></a>
+
 ## Table of contents
-- [Table of contents](#tableOfContents)
+- [Table of contents](#table-of-contents)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
 
-<a id="description"></a>
 ## Description
 Conway's Game of Life is a zero player game, once the user sets the initial state it plays itself.
 The game is made up of a grid, each cell in the grid is either active or inactive. The state of a cell may change depending on the amount of active cells neighbouring it.  Neighbours are to the sides and the diagonals of a cell.
@@ -24,7 +23,7 @@ The game is made up of a grid, each cell in the grid is either active or inactiv
 **For inactive cells:**
 - Each cell with **3** active neighbours will become active
 
-<a id="installation"></a>
+
 ## Installation
 You will need Python3 to run this program ([How to install Python](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html))
 
@@ -32,7 +31,7 @@ Clone this repository to your local pc.
 
 _That's it! This project only uses modules that are built into Python3 so there is no need to install anything else._
 
-<a id="usage"></a>
+
 ## Usage
 To use this program you will need an input file. This file contains **0**s  and **1**s indicating inactive and active cells respectively. This will be the starting configuration for Conway's Game of Life. _Sample input files can be found in the [patterns](patterns) directory._
 
@@ -49,7 +48,7 @@ To view them, run the command `python main.py --help`.
 
 4) To end the program, press `Ctrl+c` or close the console window.
 
-<a id="license"></a>
+
 ## License
 [MIT License](LICENSE.md)
 
