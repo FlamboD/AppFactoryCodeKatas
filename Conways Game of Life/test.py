@@ -50,7 +50,7 @@ class TestGameOfLife(unittest.TestCase):
             5
         )
 
-    def test_nextIttr(self):
+    def test_nextIter(self):
         board = [
             ["0", "0", "0", "0", "0"],
             ["0", "0", "1", "0", "0"],
