@@ -1,3 +1,4 @@
 [submodule "Express Web Framework Tutorial"]
 	path = Express Web Framework Tutorial
 	url = https://github.com/FlamboD/Express-web-Framework-Tutorial.git
+	branch = main
